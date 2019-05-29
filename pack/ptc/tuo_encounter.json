@@ -455,6 +455,7 @@
 		"type_code": "location"
 	},
 	{
+		"back_link": "03182b",
 		"code": "03182a",
 		"cost": null,
 		"encounter_code": "the_unspeakable_oath",
@@ -476,7 +477,6 @@
 		"type_code": "asset"
 	},
 	{
-		"back_link": "03182a",
 		"code": "03182b",
 		"enemy_damage": 1,
 		"enemy_evade": 3,
